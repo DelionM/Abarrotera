@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Abarrotes\Abarrotes\bin\Debug\Abarrotes.exe.config
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\bin\Debug\Abarrotes.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\bin\Debug\Abarrotes.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.csprojResolveAssemblyReference.cache
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.Form1.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.Properties.Resources.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.csproj.GenerateResource.Cache
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Abarrotes\Abarrotes\obj\Debug\Abarrotes.pdb
